@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style >body{
+	align-items:center;
+	
+}
+#hello{
+	margin:16 20 ;
+}
+</style>
+</head>
+<body>
+<h1 id="hello">HELLO JEE</h1>
+</body>
+</html>
